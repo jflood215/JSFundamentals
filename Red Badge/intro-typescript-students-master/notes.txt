@@ -1,0 +1,37 @@
+//Why type script? 
+
+
+
+// Installing TypeScript
+
+
+// Commands for typescript
+
+imr 
+ccc 
+
+
+//Core Types
+
+
+// Watching a file
+
+TS-React Project
+// How to start
+npx create-react-app 72hourproject --template typescript
+
+cd into file
+
+npm install reactstrap
+npm install bootstrap
+npm start
+
+import 'bootstrap/dist/css/bootstrap.min.css'; // add to index.tsx or index.js
+
+ComponentDidMount = useEffect with the []
+this.state = useState
+this.setState({})
+
+When using reactstrap:
+
+npm install @types/reactstrap - defines type

@@ -1,0 +1,15 @@
+let myArray = [
+  [1, "Today "],
+  [1, "is "],
+  [0, "going"],
+  [1, "to be "],
+  [0, "a "],
+  [0, "good "],
+  [1, "day."],
+];
+
+// Write a loop that will console log the sentence so it reads
+// Today is going to be a good day.
+for (let i = 0; i < myArray.length; i+2) {
+  console.log(myArray[i]);
+}

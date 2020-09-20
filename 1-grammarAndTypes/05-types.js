@@ -112,5 +112,10 @@ console.log(stepsToBrushTeeth);
 console.log(stepsToBrushTeeth[1]);
 
 
+let num = 30
 
+console.log(typeof num);
 
+if (typeof num == 'number') {
+    console.log('it worked')
+}
